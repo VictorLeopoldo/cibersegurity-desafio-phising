@@ -5,7 +5,7 @@ Phishing para captura de senhas do Facebook
 Kali Linux
 setoolkit
 ## Configurando o Phishing no Kali Linux
-Acesso root: sudo su
+Acesso root: sudo su <br>
 Iniciando o setoolkit: setoolkit
 Tipo de ataque: Social-Engineering Attacks
 Vetor de ataque: Web Site Attack Vectors
